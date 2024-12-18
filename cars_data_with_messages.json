@@ -438,11 +438,11 @@
     },
     {
       "model": "RX450h+",
-      "solution": "6kW: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 6kW充電時は仕様により停止する場合あり"
     },
     {
       "model": "NX450h+",
-      "solution": "6kW: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 6kW充電時は仕様により停止する場合あり"
     }
   ],
   "ロールスロイス": [
