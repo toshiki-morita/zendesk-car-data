@@ -2,493 +2,493 @@
   "Audi": [
     {
       "model": "e-tron GT",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Q4 e-tron",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Q8 e-tron",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "A8 TFSI e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "BMW": [
     {
       "model": "i4",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "i5",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "i7",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "iX",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "iX1",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "iX3",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "MINI ACEMAN E",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "MINI ACEMAN SE",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "MINI COUNTRYMAN",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "MINI COOPER E",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "MINI COOPER SE",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "330e",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "X3",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "530e",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "745e",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "X5",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "XM",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "MINI Cooper S E Crossover ALL4",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     }
   ],
   "BYD": [
     {
       "model": "ATTO 3",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "DOLPHIN",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "SEAL",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "DS": [
     {
       "model": "DS4",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "DS7",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "DS9",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "VOLVO": [
     {
       "model": "C40 Recharge",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "EX30",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "XC40 Recharge",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "S60",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "V60",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "S90",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "V90",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "XC60",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "XC90",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     }
   ],
   "アバルト": [
     {
       "model": "500e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "アルファロメオ": [
     {
       "model": "トナーレ",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "ジープ": [
     {
       "model": "ラングラー",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "グランドチェロキー",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "レネゲード",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "シトロエン": [
     {
       "model": "Ë-C4",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "C5",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "ジャガー": [
     {
       "model": "I-PACE",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "F-PACE",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "E-PACE",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "スバル": [
     {
       "model": "ソルテラ",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "テスラ": [
     {
       "model": "Model 3",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Model S",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Model X",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Model Y",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "トヨタ": [
     {
       "model": "bZ4X",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "クラウン（スポーツ）",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "プリウスPHV※旧型",
-      "solution": "Details: ✖, 6kW充電時は仕様により停止する場合あり"
+      "solution": "6kW: ✖, 6kW充電時は仕様により停止する場合あり"
     },
     {
       "model": "プリウス※現行モデル",
-      "solution": "Details: ✖, 6kW充電時は仕様により停止する場合あり"
+      "solution": "6kW: ✖, 6kW充電時は仕様により停止する場合あり"
     },
     {
       "model": "RAV4",
-      "solution": "Details: ✖, 6kW充電時は仕様により停止する場合あり"
+      "solution": "6kW: ✖, 6kW充電時は仕様により停止する場合あり"
     },
     {
       "model": "ハリアー",
-      "solution": "Details: ✖, 6kW充電時は仕様により停止する場合あり"
+      "solution": "6kW: ✖, 6kW充電時は仕様により停止する場合あり"
     },
     {
       "model": "センチュリー",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "ヒョンデ": [
     {
       "model": "IONIQ 5",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "IONIQ 5N",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "KONA",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "KONA N Line",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "フィアット": [
     {
       "model": "500e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "600e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "フォルクスワーゲン": [
     {
       "model": "ID.4",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Passat※終売",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "プジョー": [
     {
       "model": "308",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "408",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "508",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "3008",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "e-2008",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "e-208",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "ポルシェ": [
     {
       "model": "タイカン",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "パナメーラ4",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "カイエン",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "ホンダ": [
     {
       "model": "Honda e ※終売",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "N-VAN e:",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "マツダ": [
     {
       "model": "MX-30 EV MODEL ※終売",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "MX-30",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "CX-60",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "CX-80",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "メルセデス・ベンツ": [
     {
       "model": "EQA",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "EQB",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "EQC",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "EQE",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "EQS",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "G 580",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "A250e",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "C350e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "E350e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "S580e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "GLC350e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "ランドローバー": [
     {
       "model": "Range Rover",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Discovery Sport",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "Range Rover EVOQUE",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "レクサス": [
     {
       "model": "RZ",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "UX300e",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "RX450h+",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "NX450h+",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     }
   ],
   "ロールスロイス": [
     {
       "model": "スペクター",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     }
   ],
   "三菱": [
     {
       "model": "eKクロス EV",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "ミニキャブEV",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "エクリプスクロス",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "アウトランダー",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     }
   ],
   "日産": [
     {
       "model": "e-NV200 ※終売",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "アリア",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "サクラ",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     },
     {
       "model": "リーフ e+",
-      "solution": "Details: 〇, "
+      "solution": "6kW: 〇, "
     },
     {
       "model": "リーフ",
-      "solution": "Details: ✖, 最大3kWで充電"
+      "solution": "6kW: ✖, 最大3kWで充電"
     }
   ]
 }
